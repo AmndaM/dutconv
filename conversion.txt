@@ -1,0 +1,5 @@
+Conversions
+-Rand to cents
+	Multiply rand by 100
+-Km to m
+-Liter to ml
